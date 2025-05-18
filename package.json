@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/ajv": "^0.0.5",
+    "ajv": "^8.17.1"
+  }
+}

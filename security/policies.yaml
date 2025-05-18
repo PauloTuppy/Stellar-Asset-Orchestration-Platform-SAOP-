@@ -1,0 +1,9 @@
+rotation_schedule:
+  issuance_key:
+    interval: 90d
+    threshold: 1_000_000_000  # Max operations
+  settlement_key:
+    interval: 30d
+  governance_key:
+    interval: 365d
+    manual_approval: required
